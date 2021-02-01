@@ -1,0 +1,13 @@
+D:\VS_Projects\Module9Practice\Module9Practice\Module9Practice\bin\Debug\netcoreapp3.1\Module9Practice.exe
+D:\VS_Projects\Module9Practice\Module9Practice\Module9Practice\bin\Debug\netcoreapp3.1\Module9Practice.deps.json
+D:\VS_Projects\Module9Practice\Module9Practice\Module9Practice\bin\Debug\netcoreapp3.1\Module9Practice.runtimeconfig.json
+D:\VS_Projects\Module9Practice\Module9Practice\Module9Practice\bin\Debug\netcoreapp3.1\Module9Practice.runtimeconfig.dev.json
+D:\VS_Projects\Module9Practice\Module9Practice\Module9Practice\bin\Debug\netcoreapp3.1\Module9Practice.dll
+D:\VS_Projects\Module9Practice\Module9Practice\Module9Practice\bin\Debug\netcoreapp3.1\Module9Practice.pdb
+D:\VS_Projects\Module9Practice\Module9Practice\Module9Practice\obj\Debug\netcoreapp3.1\Module9Practice.csprojAssemblyReference.cache
+D:\VS_Projects\Module9Practice\Module9Practice\Module9Practice\obj\Debug\netcoreapp3.1\Module9Practice.AssemblyInfoInputs.cache
+D:\VS_Projects\Module9Practice\Module9Practice\Module9Practice\obj\Debug\netcoreapp3.1\Module9Practice.AssemblyInfo.cs
+D:\VS_Projects\Module9Practice\Module9Practice\Module9Practice\obj\Debug\netcoreapp3.1\Module9Practice.csproj.CoreCompileInputs.cache
+D:\VS_Projects\Module9Practice\Module9Practice\Module9Practice\obj\Debug\netcoreapp3.1\Module9Practice.dll
+D:\VS_Projects\Module9Practice\Module9Practice\Module9Practice\obj\Debug\netcoreapp3.1\Module9Practice.pdb
+D:\VS_Projects\Module9Practice\Module9Practice\Module9Practice\obj\Debug\netcoreapp3.1\Module9Practice.genruntimeconfig.cache
